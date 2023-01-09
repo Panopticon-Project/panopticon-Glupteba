@@ -9,3 +9,7 @@ https://www.courtlistener.com/docket/61599631/google-llc-v-dmitry-starovikov/
 https://www.securityweek.com/google-wins-lawsuit-against-glupteba-botnet-operators
 
 https://www.nozominetworks.com/blog/tracking-malicious-glupteba-activity-through-the-blockchain/
+
+https://blog.google/threat-analysis-group/disrupting-glupteba-operation/
+
+https://www.securityweek.com/google-wins-lawsuit-against-glupteba-botnet-operators
